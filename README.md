@@ -1,6 +1,6 @@
 # portfolio-Web-Developer-Web-Designer
 
-<img width="333" height="300" alt="image" src="https://github.com/user-attachments/assets/df9fe10d-7f73-41ff-8eaa-c97559ac80ac" />
+<img width="83" height="80" alt="image" src="https://github.com/user-attachments/assets/df9fe10d-7f73-41ff-8eaa-c97559ac80ac" />
 
 
 🧑‍💻 برنامه‌نویس و طراح وب (Web Developer & Web Designer)
